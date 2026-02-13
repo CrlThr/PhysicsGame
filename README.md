@@ -35,4 +35,6 @@ Pressure Plates : Detection is handle via OnComponentBeginOverlap.
 Huge Problem : Not very had a huge problem on this game, but at first i forgot to check simulate physic, that allow the player to press the button but not the cube.....
 
 ## Key Takeaways
-Substepping: Learned how to enable physics substepping to stabilize complex simulations. Impulse vs. Force: Mastered the difference between applying an instantaneous change in velocity (Impulse) versus a gradual change (Force). Collision Optimization: Optimized collision presets (BlockAll vs. Overlap) to maintain performance.
+* Substepping: Learned how to enable physics substepping to stabilize complex simulations. 
+* Impulse vs. Force: Mastered the difference between applying an instantaneous change in velocity (Impulse) versus a gradual change (Force). 
+* Collision Optimization: Optimized collision presets (BlockAll vs. Overlap) to maintain performance.
